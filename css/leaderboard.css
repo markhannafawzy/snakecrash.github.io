@@ -1,0 +1,61 @@
+
+
+body {
+	padding-top: 50px;
+}
+
+#main_div {
+	background-color:transparent;
+	border-radius: 20px;
+	margin: 0 auto;
+  	max-width: 400px;
+  	
+  	padding-top: 5px;
+}
+
+.inner_div{
+	float: left;
+	margin-left: 30px;
+}
+
+#card_div {
+	width: 400px;
+	height: 45px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	padding-bottom: 30px;
+  	margin-bottom: 15px;
+}
+
+#img_div {
+	padding-top: 17px;
+}
+
+h2 {
+	color: #000000;
+	text-align: center;
+	font-family: verdana;
+}
+
+img {
+	height: 30px;
+	width: 30px;
+	margin-top: 10px;
+}
+
+p {
+	font-family: Calibri;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#order_number {
+	color: #f8e71c;
+}
+
+#user_name {
+	color: #4a90e2;
+	width: 200px;
+}
+
+
